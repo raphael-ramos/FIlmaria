@@ -42,7 +42,7 @@ export default function Filme(){
 
         if (hasFilme){
             //alert('Filme já adicionado anteriormente!');
-            toast.warning('VocÊ já possui esse filme em sua lista!')
+            toast.warning('Você já possui esse filme em sua lista!')
             return;
         }
 
